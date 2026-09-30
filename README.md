@@ -40,7 +40,7 @@ I'm building practical analytics projects focused on:
 A healthcare analytics project using **Kimball dimensional modeling** to transform
 a normalized HMIS dataset into a scalable analytical model, which supports Business Intelligence/analytics.
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** Power BI, Power Query, DAX, Excel
 
 → [View Project](https://github.com/veludandi-rahuldev/Hospital-HMIS-Dimensional-Model)
 
